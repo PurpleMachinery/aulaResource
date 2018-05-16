@@ -53,7 +53,7 @@ namespace aulaResource
 
         private void btnCadastrar_Click(object sender, EventArgs e)
         {
-            using (SqlConnection conn = new SqlConnection("conexao com banco"))
+            using (SqlConnection conn = new SqlConnection(Program.conexao))
             {
                 using (SqlCommand cmd = new SqlCommand("incluirClientes"))
                 {
