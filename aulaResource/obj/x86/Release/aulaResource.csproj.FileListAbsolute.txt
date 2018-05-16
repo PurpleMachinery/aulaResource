@@ -1,0 +1,16 @@
+C:\Users\Aluno\Desktop\aulaResource\aulaResource\bin\Release\aulaResource.exe
+C:\Users\Aluno\Desktop\aulaResource\aulaResource\bin\Release\aulaResource.pdb
+C:\Users\Aluno\Desktop\aulaResource\aulaResource\bin\Release\en\aulaResource.resources.dll
+C:\Users\Aluno\Desktop\aulaResource\aulaResource\bin\Release\pt-BR\aulaResource.resources.dll
+C:\Users\Aluno\Desktop\aulaResource\aulaResource\obj\x86\Release\aulaResource.Form1.resources
+C:\Users\Aluno\Desktop\aulaResource\aulaResource\obj\x86\Release\aulaResource.Properties.Resources.resources
+C:\Users\Aluno\Desktop\aulaResource\aulaResource\obj\x86\Release\aulaResource.Form1.en.resources
+C:\Users\Aluno\Desktop\aulaResource\aulaResource\obj\x86\Release\aulaResource.Form1.pt-BR.resources
+C:\Users\Aluno\Desktop\aulaResource\aulaResource\obj\x86\Release\aulaResource.csproj.GenerateResource.Cache
+C:\Users\Aluno\Desktop\aulaResource\aulaResource\obj\x86\Release\en\aulaResource.resources.dll
+C:\Users\Aluno\Desktop\aulaResource\aulaResource\obj\x86\Release\pt-BR\aulaResource.resources.dll
+C:\Users\Aluno\Desktop\aulaResource\aulaResource\obj\x86\Release\aulaResource.exe
+C:\Users\Aluno\Desktop\aulaResource\aulaResource\obj\x86\Release\aulaResource.pdb
+C:\Users\Aluno\Desktop\aulaResource\aulaResource\obj\x86\Release\aulaResource.Form2.resources
+C:\Users\Aluno\Desktop\aulaResource\aulaResource\obj\x86\Release\aulaResource.Form2.en.resources
+C:\Users\Aluno\Desktop\aulaResource\aulaResource\obj\x86\Release\aulaResource.Form2.pt-BR.resources

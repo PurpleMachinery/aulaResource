@@ -1,0 +1,33 @@
+C:\Users\Aluno\AppData\Local\Temporary Projects\aulaResource\bin\Debug\aulaResource.exe
+C:\Users\Aluno\AppData\Local\Temporary Projects\aulaResource\bin\Debug\aulaResource.pdb
+C:\Users\Aluno\AppData\Local\Temporary Projects\aulaResource\bin\Debug\pt-BR\aulaResource.resources.dll
+C:\Users\Aluno\AppData\Local\Temporary Projects\aulaResource\obj\x86\Debug\aulaResource.Form1.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\aulaResource\obj\x86\Debug\aulaResource.Properties.Resources.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\aulaResource\obj\x86\Debug\aulaResource.Form1.pt-BR.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\aulaResource\obj\x86\Debug\aulaResource.csproj.GenerateResource.Cache
+C:\Users\Aluno\AppData\Local\Temporary Projects\aulaResource\obj\x86\Debug\pt-BR\aulaResource.resources.dll
+C:\Users\Aluno\AppData\Local\Temporary Projects\aulaResource\obj\x86\Debug\aulaResource.exe
+C:\Users\Aluno\AppData\Local\Temporary Projects\aulaResource\obj\x86\Debug\aulaResource.pdb
+C:\Users\Aluno\AppData\Local\Temporary Projects\aulaResource\bin\Debug\en\aulaResource.resources.dll
+C:\Users\Aluno\AppData\Local\Temporary Projects\aulaResource\obj\x86\Debug\aulaResource.Form1.en.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\aulaResource\obj\x86\Debug\en\aulaResource.resources.dll
+C:\Users\Aluno\AppData\Local\Temporary Projects\aulaResource\bin\Debug\ps\aulaResource.resources.dll
+C:\Users\Aluno\AppData\Local\Temporary Projects\aulaResource\obj\x86\Debug\aulaResource.Form1.ps.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\aulaResource\obj\x86\Debug\ps\aulaResource.resources.dll
+C:\Users\Aluno\Desktop\aulaResource\aulaResource\obj\x86\Debug\aulaResource.exe
+C:\Users\Aluno\Desktop\aulaResource\aulaResource\obj\x86\Debug\aulaResource.pdb
+C:\Users\Aluno\Desktop\aulaResource\aulaResource\bin\Debug\aulaResource.exe
+C:\Users\Aluno\Desktop\aulaResource\aulaResource\bin\Debug\aulaResource.pdb
+C:\Users\Aluno\Desktop\aulaResource\aulaResource\bin\Debug\en\aulaResource.resources.dll
+C:\Users\Aluno\Desktop\aulaResource\aulaResource\bin\Debug\pt-BR\aulaResource.resources.dll
+C:\Users\Aluno\Desktop\aulaResource\aulaResource\obj\x86\Debug\aulaResource.Form1.resources
+C:\Users\Aluno\Desktop\aulaResource\aulaResource\obj\x86\Debug\aulaResource.Properties.Resources.resources
+C:\Users\Aluno\Desktop\aulaResource\aulaResource\obj\x86\Debug\aulaResource.Form1.en.resources
+C:\Users\Aluno\Desktop\aulaResource\aulaResource\obj\x86\Debug\aulaResource.Form1.pt-BR.resources
+C:\Users\Aluno\Desktop\aulaResource\aulaResource\obj\x86\Debug\aulaResource.csproj.GenerateResource.Cache
+C:\Users\Aluno\Desktop\aulaResource\aulaResource\obj\x86\Debug\en\aulaResource.resources.dll
+C:\Users\Aluno\Desktop\aulaResource\aulaResource\obj\x86\Debug\pt-BR\aulaResource.resources.dll
+C:\Users\Aluno\Desktop\aulaResource\aulaResource\obj\x86\Debug\aulaResource.Form2.resources
+C:\Users\Aluno\Desktop\aulaResource\aulaResource\obj\x86\Debug\aulaResource.Form2.en.resources
+C:\Users\Aluno\Desktop\aulaResource\aulaResource\obj\x86\Debug\aulaResource.Form2.pt-BR.resources
+C:\Users\Aluno\Desktop\aulaResource\aulaResource\obj\x86\Debug\aulaResource.Form3.resources
