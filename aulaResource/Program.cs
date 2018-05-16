@@ -17,5 +17,6 @@ namespace aulaResource
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form3());
         }
+        public static String conexao = "conexaodubancu"; 
     }
 }

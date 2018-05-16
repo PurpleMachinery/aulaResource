@@ -35,8 +35,8 @@
             this.lblEstado = new System.Windows.Forms.Label();
             this.lblCidade = new System.Windows.Forms.Label();
             this.lblBairro = new System.Windows.Forms.Label();
-            this.textBox2 = new System.Windows.Forms.TextBox();
-            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.txtDocumento = new System.Windows.Forms.TextBox();
+            this.txtTelefone = new System.Windows.Forms.TextBox();
             this.lblPassPort = new System.Windows.Forms.Label();
             this.lblTelefone = new System.Windows.Forms.Label();
             this.cmbLanguage = new System.Windows.Forms.ComboBox();
@@ -45,6 +45,10 @@
             this.txtNome = new System.Windows.Forms.TextBox();
             this.lblEndereco = new System.Windows.Forms.Label();
             this.lblNome = new System.Windows.Forms.Label();
+            this.label1 = new System.Windows.Forms.Label();
+            this.txtID = new System.Windows.Forms.TextBox();
+            this.txtIdFuncionario = new System.Windows.Forms.TextBox();
+            this.label2 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // txtEstado
@@ -77,15 +81,15 @@
             resources.ApplyResources(this.lblBairro, "lblBairro");
             this.lblBairro.Name = "lblBairro";
             // 
-            // textBox2
+            // txtDocumento
             // 
-            resources.ApplyResources(this.textBox2, "textBox2");
-            this.textBox2.Name = "textBox2";
+            resources.ApplyResources(this.txtDocumento, "txtDocumento");
+            this.txtDocumento.Name = "txtDocumento";
             // 
-            // textBox1
+            // txtTelefone
             // 
-            resources.ApplyResources(this.textBox1, "textBox1");
-            this.textBox1.Name = "textBox1";
+            resources.ApplyResources(this.txtTelefone, "txtTelefone");
+            this.txtTelefone.Name = "txtTelefone";
             // 
             // lblPassPort
             // 
@@ -109,6 +113,7 @@
             resources.ApplyResources(this.btnCadastrar, "btnCadastrar");
             this.btnCadastrar.Name = "btnCadastrar";
             this.btnCadastrar.UseVisualStyleBackColor = true;
+            this.btnCadastrar.Click += new System.EventHandler(this.btnCadastrar_Click);
             // 
             // txtEndereco
             // 
@@ -130,18 +135,42 @@
             resources.ApplyResources(this.lblNome, "lblNome");
             this.lblNome.Name = "lblNome";
             // 
+            // label1
+            // 
+            resources.ApplyResources(this.label1, "label1");
+            this.label1.Name = "label1";
+            // 
+            // txtID
+            // 
+            resources.ApplyResources(this.txtID, "txtID");
+            this.txtID.Name = "txtID";
+            // 
+            // txtIdFuncionario
+            // 
+            resources.ApplyResources(this.txtIdFuncionario, "txtIdFuncionario");
+            this.txtIdFuncionario.Name = "txtIdFuncionario";
+            // 
+            // label2
+            // 
+            resources.ApplyResources(this.label2, "label2");
+            this.label2.Name = "label2";
+            // 
             // Form2
             // 
             resources.ApplyResources(this, "$this");
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.Controls.Add(this.txtIdFuncionario);
+            this.Controls.Add(this.label2);
+            this.Controls.Add(this.txtID);
+            this.Controls.Add(this.label1);
             this.Controls.Add(this.txtEstado);
             this.Controls.Add(this.txtCidade);
             this.Controls.Add(this.txtBairro);
             this.Controls.Add(this.lblEstado);
             this.Controls.Add(this.lblCidade);
             this.Controls.Add(this.lblBairro);
-            this.Controls.Add(this.textBox2);
-            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.txtDocumento);
+            this.Controls.Add(this.txtTelefone);
             this.Controls.Add(this.lblPassPort);
             this.Controls.Add(this.lblTelefone);
             this.Controls.Add(this.cmbLanguage);
@@ -165,8 +194,8 @@
         private System.Windows.Forms.Label lblEstado;
         private System.Windows.Forms.Label lblCidade;
         private System.Windows.Forms.Label lblBairro;
-        private System.Windows.Forms.TextBox textBox2;
-        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.TextBox txtDocumento;
+        private System.Windows.Forms.TextBox txtTelefone;
         private System.Windows.Forms.Label lblPassPort;
         private System.Windows.Forms.Label lblTelefone;
         private System.Windows.Forms.ComboBox cmbLanguage;
@@ -175,5 +204,9 @@
         private System.Windows.Forms.TextBox txtNome;
         private System.Windows.Forms.Label lblEndereco;
         private System.Windows.Forms.Label lblNome;
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.TextBox txtID;
+        private System.Windows.Forms.TextBox txtIdFuncionario;
+        private System.Windows.Forms.Label label2;
     }
 }

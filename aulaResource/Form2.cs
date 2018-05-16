@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 using System.Globalization;
+using System.Data.SqlClient;
 
 namespace aulaResource
 {
@@ -48,6 +49,25 @@ namespace aulaResource
             cmbLanguage.Items.Add("Português");
             cmbLanguage.Items.Add("Ingles");
             cmbLanguage.Items.Add("Espanhol");
+        }
+
+        private void btnCadastrar_Click(object sender, EventArgs e)
+        {
+            using (SqlConnection conn = new SqlConnection("conexao com banco"))
+            {
+                using (SqlCommand cmd = new SqlCommand("incluirClientes"))
+                {
+                    cmd.CommandType = CommandType.StoredProcedure;
+                    cmd.Parameters.Add("@pk_id", SqlDbType.Int).Value = txtID.Text;
+                    cmd.Parameters.Add("@nome", SqlDbType.NVarChar).Value = txtNome.Text;
+                    cmd.Parameters.Add("@endereco", SqlDbType.NVarChar).Value = txtEndereco.Text;
+                    cmd.Parameters.Add("@telefone", SqlDbType.NVarChar).Value = txtTelefone.Text;
+                    cmd.Parameters.Add("@documento", SqlDbType.NVarChar).Value = txtDocumento.Text;
+                    cmd.Parameters.Add("@fk_funcionario", SqlDbType.Int).Value = txtIdFuncionario.Text;
+                    conn.Open();
+                    cmd.ExecuteNonQuery();
+                }
+            }
         }
     }
 }

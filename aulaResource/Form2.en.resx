@@ -118,11 +118,26 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="txtEstado.Location" type="System.Drawing.Point, System.Drawing">
+    <value>92, 242</value>
+  </data>
+  <data name="txtCidade.Location" type="System.Drawing.Point, System.Drawing">
+    <value>92, 212</value>
+  </data>
+  <data name="txtBairro.Location" type="System.Drawing.Point, System.Drawing">
+    <value>92, 179</value>
+  </data>
+  <data name="lblEstado.Location" type="System.Drawing.Point, System.Drawing">
+    <value>18, 245</value>
+  </data>
   <data name="lblEstado.Size" type="System.Drawing.Size, System.Drawing">
     <value>32, 13</value>
   </data>
   <data name="lblEstado.Text" xml:space="preserve">
     <value>State</value>
+  </data>
+  <data name="lblCidade.Location" type="System.Drawing.Point, System.Drawing">
+    <value>18, 217</value>
   </data>
   <data name="lblCidade.Size" type="System.Drawing.Size, System.Drawing">
     <value>24, 13</value>
@@ -130,14 +145,23 @@
   <data name="lblCidade.Text" xml:space="preserve">
     <value>City</value>
   </data>
+  <data name="lblBairro.Location" type="System.Drawing.Point, System.Drawing">
+    <value>20, 182</value>
+  </data>
   <data name="lblBairro.Size" type="System.Drawing.Size, System.Drawing">
     <value>74, 13</value>
   </data>
   <data name="lblBairro.Text" xml:space="preserve">
     <value>Neighborhood</value>
   </data>
+  <data name="lblPassPort.Location" type="System.Drawing.Point, System.Drawing">
+    <value>18, 141</value>
+  </data>
   <data name="lblPassPort.Text" xml:space="preserve">
     <value>Document</value>
+  </data>
+  <data name="lblTelefone.Location" type="System.Drawing.Point, System.Drawing">
+    <value>17, 108</value>
   </data>
   <data name="lblTelefone.Size" type="System.Drawing.Size, System.Drawing">
     <value>58, 13</value>
@@ -146,10 +170,19 @@
     <value>Telephone</value>
   </data>
   <data name="btnCadastrar.Location" type="System.Drawing.Point, System.Drawing">
-    <value>92, 275</value>
+    <value>95, 316</value>
   </data>
   <data name="btnCadastrar.Text" xml:space="preserve">
     <value>Register</value>
+  </data>
+  <data name="txtEndereco.Location" type="System.Drawing.Point, System.Drawing">
+    <value>92, 72</value>
+  </data>
+  <data name="txtNome.Location" type="System.Drawing.Point, System.Drawing">
+    <value>92, 38</value>
+  </data>
+  <data name="lblEndereco.Location" type="System.Drawing.Point, System.Drawing">
+    <value>18, 75</value>
   </data>
   <data name="lblEndereco.Size" type="System.Drawing.Size, System.Drawing">
     <value>45, 13</value>
@@ -157,10 +190,19 @@
   <data name="lblEndereco.Text" xml:space="preserve">
     <value>Address</value>
   </data>
+  <data name="lblNome.Location" type="System.Drawing.Point, System.Drawing">
+    <value>18, 41</value>
+  </data>
   <data name="lblNome.Text" xml:space="preserve">
     <value>Name</value>
   </data>
+  <data name="txtIdFuncionario.Location" type="System.Drawing.Point, System.Drawing">
+    <value>95, 273</value>
+  </data>
+  <data name="label2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>21, 276</value>
+  </data>
   <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
-    <value>420, 319</value>
+    <value>420, 383</value>
   </data>
 </root>
